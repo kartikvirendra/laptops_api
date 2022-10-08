@@ -10,5 +10,106 @@
     "ROM": "512GB SSD", 
     "price": 62890, 
     "buying_link": "https://www.flipkart.com/acer-aspire-7-core-i5-12th-gen-8-gb-512-gb-ssd-windows-11-home-4-graphics-nvidia-geforce-rtx-3050-a715-51g-gaming-laptop/p/itmafe10258b06e6?pid=COMGHY4DFFQC2ZHW&lid=LSTCOMGHY4DFFQC2ZHWLUNZXG&marketplace=FLIPKART&q=aspire+7&store=6bo%2Fb5g&srno=s_1_2&otracker=AS_QueryStore_OrganicAutoSuggest_1_7_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_7_na_na_na&fm=neo%2Fmerchandising&iid=05ef45cf-b5a7-463b-ba52-68e3b6944421.COMGHY4DFFQC2ZHW.SEARCH&ppt=pp&ppn=pp&ssid=o4hp946tzk0000001665208048736&qH=5d7ef98a093130be" 
-  } 
+  },
+  { 
+    "id": 2, 
+    "laptop_name": "ASUS Vivobook 15 Core i5 11th Gen", 
+    "model_no": "X515EA-EJ522WS", 
+    "image_link": "https://rukminim1.flixcart.com/image/416/416/xif0q/computer/o/t/h/-original-imagg6t9pauha4t7.jpeg?q=70", 
+    "CPU": "Intel Core i5 11th Gen", 
+    "GPU": "Intel Integrated Iris Xe", 
+    "RAM": "8GB", 
+    "ROM": "512GB SSD", 
+    "price": 48048, 
+    "buying_link": "https://www.flipkart.com/asus-vivobook-15-core-i5-11th-gen-8-gb-512-gb-ssd-windows-11-home-x515ea-ej522ws-thin-light-laptop/p/itm85cfbc3a2e8a7?pid=COMGDRNRY8YB3KEG&lid=LSTCOMGDRNRY8YB3KEGKLPJN1&marketplace=FLIPKART&q=laptop&store=6bo%2Fb5g&srno=s_1_1&otracker=search&otracker1=search&fm=neo%2Fmerchandising&iid=en_XZlvJNmCYfdMo0waHuXpuIdUMJhD%2Fn2RoYCLcTpV%2FB8ls8l5MvHw%2BQdeC3NWayLBSmJU09tuszBYJjTtnaFzxg%3D%3D&ppt=pp&ppn=pp&ssid=vhgdeaxijk0000001665208757163&qH=312f91285e048e09" 
+  } ,
+  { 
+    "id": 3, 
+    "laptop_name": "ASUS VivoBook 15 (2022)", 
+    "model_no": "X515JA-EJ562WS", 
+    "image_link": "https://rukminim1.flixcart.com/image/416/416/kp2y2kw0/computer/y/0/c/na-thin-and-light-laptop-asus-original-imag3ebnzawky4kn.jpeg?q=70", 
+    "CPU": "Intel Core i5 10th Gen", 
+    "GPU": "Intel Integrated UHD", 
+    "RAM": "8GB", 
+    "ROM": "512GB SSD", 
+    "price": 37990, 
+    "buying_link": "https://www.flipkart.com/asus-vivobook-15-2022-core-i5-10th-gen-8-gb-512-gb-ssd-windows-11-home-x515ja-ej562ws-x515ja-ej592ws-thin-light-laptop/p/itm2e65b7fbcb497?pid=COMG87FF2SD7ZHK6&lid=LSTCOMG87FF2SD7ZHK6CCCXCI&marketplace=FLIPKART&q=laptop&store=6bo%2Fb5g&spotlightTagId=BestsellerId_6bo%2Fb5g&srno=s_1_4&otracker=search&otracker1=search&fm=Search&iid=c0279dbb-fb1f-4909-a7bd-ab442e65799e.COMG87FF2SD7ZHK6.SEARCH&ppt=sp&ppn=sp&qH=312f91285e048e09" 
+  } ,{ 
+    "id": 4, 
+    "laptop_name": "realme Book (Slim)", 
+    "model_no": "RMNB1001", 
+    "image_link": "https://rukminim1.flixcart.com/image/416/416/ksez24w0/computer/v/b/y/rmnb1001-thin-and-light-laptop-realme-original-imag5zhgw27k4tbb.jpeg?q=70", 
+    "CPU": "Intel Core i3 11th Gen", 
+    "GPU": "Intel Integrated UHD", 
+    "RAM": "8GB", 
+    "ROM": "256GB SSD", 
+    "price": 35490, 
+    "buying_link": "https://www.flipkart.com/realme-book-slim-core-i3-11th-gen-8-gb-256-gb-ssd-windows-10-home-rmnb1001-thin-light-laptop/p/itm63278eae4e867?pid=COMG5YDPE6KHFFK6&lid=LSTCOMG5YDPE6KHFFK6TDC2UE&marketplace=FLIPKART&q=laptop&store=6bo%2Fb5g&srno=s_1_7&otracker=search&otracker1=search&fm=Search&iid=c0279dbb-fb1f-4909-a7bd-ab442e65799e.COMG5YDPE6KHFFK6.SEARCH&ppt=sp&ppn=sp&qH=312f91285e048e09" 
+  },{ 
+    "id": 5, 
+    "laptop_name": "Lenovo IdeaPad 3", 
+    "model_no": "14ITL05", 
+    "image_link": "https://rukminim1.flixcart.com/image/416/416/keaaavk0/computer/c/q/t/lenovo-na-thin-and-light-laptop-original-imafuzt873zgp9xe.jpeg?q=70", 
+    "CPU": "Intel Core i3 11th Gen", 
+    "GPU": "Intel Integrated UHD", 
+    "RAM": "8GB", 
+    "ROM": "256GB SSD", 
+    "price": 33990, 
+    "buying_link": "https://www.flipkart.com/lenovo-ideapad-3-core-i3-11th-gen-8-gb-256-gb-ssd-windows-11-home-14itl05-thin-light-laptop/p/itme5d4463121c64?pid=COMG9VKERHP4FACH&lid=LSTCOMG9VKERHP4FACHOL4YVH&marketplace=FLIPKART&q=laptop&store=6bo%2Fb5g&srno=s_1_15&otracker=search&otracker1=search&fm=Search&iid=c0279dbb-fb1f-4909-a7bd-ab442e65799e.COMG9VKERHP4FACH.SEARCH&ppt=sp&ppn=sp&qH=312f91285e048e09" 
+  },{ 
+    "id": 6, 
+    "laptop_name": "ASUS TUF Gaming A15", 
+    "model_no": "FA506QM-HN008W", 
+    "image_link": "https://rukminim1.flixcart.com/image/416/416/l572ufk0/computer/7/r/j/fa506qm-hn124w-gaming-laptop-asus-original-imagfxjyz2xdyd9f.jpeg?q=70", 
+    "CPU": "AMD Ryzen 7 Octa Core", 
+    "GPU": "NVIDIA GeForce RTX 3060", 
+    "RAM": "16GB", 
+    "ROM": "512GB SSD", 
+    "price": 89978, 
+    "buying_link": "https://www.flipkart.com/asus-tuf-gaming-a15-90whr-battery-ryzen-7-octa-core-5800h-16-gb-512-gb-ssd-windows-11-home-6-graphics-nvidia-geforce-rtx-3060-fa506qm-hn008w-laptop/p/itmcc4c1c0d500ac?pid=COMGGYY3RQKKKVKS&lid=LSTCOMGGYY3RQKKKVKSDEEJ3S&marketplace=FLIPKART&q=laptop&store=6bo%2Fb5g&srno=s_6_122&otracker=search&otracker1=search&fm=Search&iid=en_7nyy86FI4zs81I0LjuzHALTBvU5nyLhA9OHsjOO1G0TQnP63JD%2BW%2Fi6RIJeAvfd2880lfiuwTg3F3gMgDtr77Q%3D%3D&ppt=sp&ppn=sp&qH=312f91285e048e09" 
+  },{ 
+    "id": 7, 
+    "laptop_name": "APPLE 2020 Macbook Air M1", 
+    "model_no": "MGN93HN/A", 
+    "image_link": "https://rukminim1.flixcart.com/image/416/416/khdqnbk0/computer/f/y/t/apple-original-imafxfyqydgvrkzv.jpeg?q=70", 
+    "CPU": "Apple M1 Chip", 
+    "GPU": "NA", 
+    "RAM": "8GB", 
+    "ROM": "256GB SSD", 
+    "price": 89990, 
+    "buying_link": "https://www.flipkart.com/apple-2020-macbook-air-m1-8-gb-256-gb-ssd-mac-os-big-sur-mgn93hn-a/p/itmb53580bb51a7e?pid=COMFXEKMXWUMGPHW&lid=LSTCOMFXEKMXWUMGPHWKF7Y8O&marketplace=FLIPKART&q=laptop&store=6bo%2Fb5g&srno=s_6_126&otracker=search&otracker1=search&fm=Search&iid=77eff323-81d4-406f-827b-af773ed394e7.COMFXEKMXWUMGPHW.SEARCH&ppt=sp&ppn=sp&qH=312f91285e048e09" 
+  },{ 
+    "id": 8, 
+    "laptop_name": "HP Ryzen 3 Dual Core 3250U", 
+    "model_no": "15s- eq1561AU", 
+    "image_link": "https://rukminim1.flixcart.com/image/416/416/xif0q/computer/8/j/g/15s-eq1561au-thin-and-light-laptop-hp-original-imaggsgrjfzpawqa.jpeg?q=70", 
+    "CPU": "AMD Ryzen 3 Dual Core", 
+    "GPU": "AMD Radeon Radeon", 
+    "RAM": "8GB", 
+    "ROM": "256GB SSD", 
+    "price": 30790, 
+    "buying_link": "https://www.flipkart.com/hp-ryzen-3-dual-core-3250u-8-gb-256-gb-ssd-windows-11-home-15s-eq1561au-thin-light-laptop/p/itm3ee1fcefe285f?pid=COMGGFZHGC2HWZ4Z&lid=LSTCOMGGFZHGC2HWZ4ZGPLFIJ&marketplace=FLIPKART&q=laptop&store=6bo%2Fb5g&srno=s_6_129&otracker=search&otracker1=search&fm=Search&iid=77eff323-81d4-406f-827b-af773ed394e7.COMGGFZHGC2HWZ4Z.SEARCH&ppt=sp&ppn=sp&qH=312f91285e048e09" 
+  },{ 
+    "id": 9, 
+    "laptop_name": "ASUS VivoBook Flip 14", 
+    "model_no": "TP470EA-EC301WS", 
+    "image_link": "https://rukminim1.flixcart.com/image/416/416/kkyc9zk0/computer/j/z/b/na-2-in-1-laptop-asus-original-imagy6zh6zq2npfx.jpeg?q=70", 
+    "CPU": "Intel Core i3 11th Gen", 
+    "GPU": "Intel Integrated UHD", 
+    "RAM": "8GB", 
+    "ROM": "256GB SSD", 
+    "price": 45990, 
+    "buying_link": "https://www.flipkart.com/asus-vivobook-flip-14-core-i3-11th-gen-8-gb-256-gb-ssd-windows-11-home-tp470ea-ec301ws-2-1-laptop/p/itma917de411489d?pid=COMGARNU7KVANJ8E&lid=LSTCOMGARNU7KVANJ8ED5MPUN&marketplace=FLIPKART&q=laptop&store=6bo%2Fb5g&srno=s_6_130&otracker=search&otracker1=search&fm=Search&iid=77eff323-81d4-406f-827b-af773ed394e7.COMGARNU7KVANJ8E.SEARCH&ppt=sp&ppn=sp&qH=312f91285e048e09" 
+  },{ 
+    "id": 10, 
+    "laptop_name": "DELL Ryzen 3 Dual Core 3250U", 
+    "model_no": "14ITL05", 
+    "image_link": "https://rukminim1.flixcart.com/image/416/416/l0bbonk0/computer/e/h/g/inspiron-3515-thin-and-light-laptop-dell-original-imagc4khfybjef5s.jpeg?q=70", 
+    "CPU": "AMD Ryzen 3 Dual Core", 
+    "GPU": "AMD Radeon AMD", 
+    "RAM": "8GB", 
+    "ROM": "256GB SSD", 
+    "price": 40724, 
+    "buying_link": "https://www.flipkart.com/dell-ryzen-3-dual-core-3250u-8-gb-1-tb-hdd-256-gb-ssd-windows-11-home-inspiron-3515-thin-light-laptop/p/itmd45c13858a283?pid=COMGC3HZZXDJWCDT&lid=LSTCOMGC3HZZXDJWCDTDBPNOP&marketplace=FLIPKART&q=laptop&store=6bo%2Fb5g&srno=s_6_134&otracker=search&otracker1=search&fm=Search&iid=77eff323-81d4-406f-827b-af773ed394e7.COMGC3HZZXDJWCDT.SEARCH&ppt=sp&ppn=sp&qH=312f91285e048e09" 
+  }
 ]
